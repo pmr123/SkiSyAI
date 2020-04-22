@@ -2,5 +2,6 @@
 AI for skin care
 
 
-TODO:
+# TODO:
+
 1)Complete cordova code(Front end)
