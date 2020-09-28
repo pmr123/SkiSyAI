@@ -1,6 +1,8 @@
 # SkiSyAI
 AI for skin care
 
+Flask App with partial cordova implementation
+
 
 # TODO:
 
